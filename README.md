@@ -1,9 +1,7 @@
-# 🚀 Personal Blog Portfolio Web Application
+# 🚀 Personal Blog Portfolio
 
 ## 📌 Deskripsi Projek
-Projek ini merupakan aplikasi web Blog Portfolio Peribadi yang dibangunkan menggunakan HTML dan CSS untuk memenuhi keperluan tugasan individu kursus CSD 34203.
+Aplikasi web Blog Portfolio Peribadi untuk tugasan individu CSD 34203.
 
-## 🛠️ Teknologi yang Digunakan
-* **HTML5** - Struktur halaman web.
-* **CSS3** - Reka bentuk tema teal/dark.
-* **GitHub Desktop** - Pengurusan versi kod.
+## 🛠️ Teknologi
+* HTML5 & CSS3
