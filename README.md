@@ -36,5 +36,6 @@ Untuk melihat atau menjalankan projek ini pada komputer anda, ikuti langkah muda
 
 ## 👤 Maklumat Pelajar
 * **Nama Projek:** Personal Blog Portfolio System
+* **Nama Devoloper:** AJIB BIN ANAS
 * **Kursus:** CSD34203 - Project Portfolio
-* **Institusi:** Fakulti Informatik dan Komputer (FIK), UniSZA
+* **Institusi:** Fakulti Informatik dan Komputer (FIK),Course Informatic Media,University Sultan Zainal Abidin (UniSZA)
