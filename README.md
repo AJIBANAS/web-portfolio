@@ -41,3 +41,8 @@ Untuk melihat atau menjalankan projek ini pada komputer anda, ikuti langkah muda
 * **Nama Devoloper:** AJIB BIN ANAS
 * **Kursus:** CSD34203 - Project Portfolio
 * **Institusi:** Fakulti Informatik dan Komputer (FIK),Course Informatic Media,University Sultan Zainal Abidin (UniSZA)
+
+## Small Projects Included
+1. **Simple Calculator** - Web-based arithmetic tool (HTML/CSS/JS).
+2. **Mini Quiz Game** - Interactive trivia game (HTML/CSS/JS).
+3. **3D Engine Component Model** - Low-poly asset design for VR integration (Blender .blend source file included).
